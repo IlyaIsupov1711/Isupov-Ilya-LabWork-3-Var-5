@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Isuvpov Ilya P-30 LR-3 №3", "Isuvpov Ilya P-30 LR-3 №3\Isuvpov Ilya P-30 LR-3 №3.vcxproj", "{80600609-1072-40EC-9022-60AEEB7E5648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80600609-1072-40EC-9022-60AEEB7E5648}.Debug|x64.ActiveCfg = Debug|x64
+		{80600609-1072-40EC-9022-60AEEB7E5648}.Debug|x64.Build.0 = Debug|x64
+		{80600609-1072-40EC-9022-60AEEB7E5648}.Debug|x86.ActiveCfg = Debug|Win32
+		{80600609-1072-40EC-9022-60AEEB7E5648}.Debug|x86.Build.0 = Debug|Win32
+		{80600609-1072-40EC-9022-60AEEB7E5648}.Release|x64.ActiveCfg = Release|x64
+		{80600609-1072-40EC-9022-60AEEB7E5648}.Release|x64.Build.0 = Release|x64
+		{80600609-1072-40EC-9022-60AEEB7E5648}.Release|x86.ActiveCfg = Release|Win32
+		{80600609-1072-40EC-9022-60AEEB7E5648}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226473D9-4754-44FB-B7D9-47F3F0484EF7}
+	EndGlobalSection
+EndGlobal
